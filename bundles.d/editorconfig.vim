@@ -1,0 +1,1 @@
+../framework/bundles.d/editorconfig.vim

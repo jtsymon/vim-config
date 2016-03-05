@@ -1,0 +1,1 @@
+../framework/bundles.settings/clang_format.vim
